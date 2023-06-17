@@ -1,0 +1,2 @@
+2023-06-15 20:06:864 INFO  HomePage :28 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (bdc4698d7dd7a4e1a4c59209356fde83)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-15 20:06:881 INFO  HomePage :32 - Verify logo is displyed :[[ChromeDriver: chrome on WINDOWS (bdc4698d7dd7a4e1a4c59209356fde83)] -> xpath: //img[@alt='Virgin Games']]
